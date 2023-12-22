@@ -1,0 +1,330 @@
+127.0.0.1 - - [20/Dec/2023:14:27:40 +0100] "GET /stats HTTP/1.1" 200 618 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [20/Dec/2023:14:27:40 +0100] "GET /stat.xsl HTTP/1.1" 200 11765 "http://localhost/stats" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [20/Dec/2023:14:27:40 +0100] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost/stats" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [20/Dec/2023:16:34:06 +0100] "GET /stats HTTP/1.1" 200 525 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [20/Dec/2023:16:59:23 +0100] "GET /stats HTTP/1.1" 200 528 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [20/Dec/2023:17:16:25 +0100] PUBLISH "live" "stream1" "" - 411 529 "" "FMLE/3.0 (compatible; Lavf60.16" (0s)
+127.0.0.1 - - [20/Dec/2023:17:17:37 +0100] "GET /stats HTTP/1.1" 200 1212 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [20/Dec/2023:17:21:40 +0100] "GET /stats HTTP/1.1" 200 1216 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [20/Dec/2023:17:24:42 +0100] PUBLISH "live" "stream1" "" - 8104994 529 "" "FMLE/3.0 (compatible; Lavf60.16" (7m 17s)
+127.0.0.1 - - [20/Dec/2023:17:24:57 +0100] "GET /stats HTTP/1.1" 200 538 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [20/Dec/2023:17:25:17 +0100] "GET /stats HTTP/1.1" 200 1195 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [20/Dec/2023:17:28:41 +0100] PUBLISH "live" "stream1" "" - 311537 529 "" "FMLE/3.0 (compatible; Lavf60.16" (3m 29s)
+127.0.0.1 - - [20/Dec/2023:17:29:02 +0100] "GET /stats HTTP/1.1" 200 945 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [20/Dec/2023:17:29:53 +0100] "GET /stats HTTP/1.1" 200 946 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [20/Dec/2023:17:29:54 +0100] "GET /stats HTTP/1.1" 200 946 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [20/Dec/2023:17:29:54 +0100] "GET /stats HTTP/1.1" 200 946 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [20/Dec/2023:17:30:14 +0100] "GET /stats HTTP/1.1" 200 1393 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [20/Dec/2023:17:30:16 +0100] "GET /stats HTTP/1.1" 200 1393 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [20/Dec/2023:17:30:28 +0100] PLAY "live" "stream1" "" - 388 44106 "" "LNX 9,0,124,2" (2m 21s)
+127.0.0.1 [20/Dec/2023:17:32:01 +0100] PLAY "live" "stream1" "" - 374 140910 "" "LNX 9,0,124,2" (1m 28s)
+127.0.0.1 [20/Dec/2023:17:32:06 +0100] PUBLISH "live" "stream1" "" - 258452 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 57s)
+127.0.0.1 - - [20/Dec/2023:17:32:14 +0100] "GET /stats HTTP/1.1" 200 547 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [20/Dec/2023:17:34:12 +0100] "GET /stats HTTP/1.1" 200 1223 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [20/Dec/2023:17:34:24 +0100] "GET /stats HTTP/1.1" 200 1221 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [20/Dec/2023:17:37:36 +0100] PLAY "live" "stream1" "" - 464 17350842 "" "LNX 9,0,124,2" (2m 52s)
+127.0.0.1 [20/Dec/2023:17:37:50 +0100] PUBLISH "live" "stream1" "" - 29094266 529 "" "FMLE/3.0 (compatible; Lavf60.16" (3m 50s)
+127.0.0.1 - - [20/Dec/2023:17:38:13 +0100] "GET /stats HTTP/1.1" 200 543 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [20/Dec/2023:17:41:40 +0100] "GET /stats HTTP/1.1" 200 1428 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [20/Dec/2023:17:42:08 +0100] PLAY "live" "stream1" "" - 399 9661586 "" "LNX 9,0,124,2" (55s)
+127.0.0.1 [20/Dec/2023:17:42:29 +0100] PUBLISH "live" "stream1" "" - 26427137 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 38s)
+127.0.0.1 - - [20/Dec/2023:17:45:06 +0100] "GET /stats HTTP/1.1" 200 543 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [20/Dec/2023:17:54:00 +0100] PUBLISH "live" "stream1" "" - 3759433 529 "" "FMLE/3.0 (compatible; Lavf60.16" (3m 8s)
+127.0.0.1 [20/Dec/2023:17:54:36 +0100] PLAY "live" "stream1" "" - 388 2350830 "" "LNX 9,0,124,2" (3m 26s)
+127.0.0.1 [20/Dec/2023:17:56:56 +0100] PLAY "live" "stream1" "" - 402 7996502 "" "LNX 9,0,124,2" (2m 15s)
+127.0.0.1 [20/Dec/2023:17:57:12 +0100] PUBLISH "live" "stream1" "" - 18033638 529 "" "FMLE/3.0 (compatible; Lavf60.16" (3m 2s)
+127.0.0.1 - - [20/Dec/2023:17:57:51 +0100] "GET /stats HTTP/1.1" 200 1225 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [20/Dec/2023:18:00:11 +0100] PLAY "live" "stream1" "" - 418 14021228 "" "LNX 9,0,124,2" (1m 53s)
+127.0.0.1 [20/Dec/2023:18:00:54 +0100] PUBLISH "live" "stream1" "" - 25489971 529 "" "FMLE/3.0 (compatible; Lavf60.16" (3m 14s)
+127.0.0.1 [20/Dec/2023:18:01:57 +0100] PLAY "live" "stream1" "" - 394 7494392 "" "LNX 9,0,124,2" (30s)
+127.0.0.1 [20/Dec/2023:18:02:03 +0100] PUBLISH "live" "stream1" "" - 15494911 529 "" "FMLE/3.0 (compatible; Lavf60.16" (58s)
+127.0.0.1 - - [20/Dec/2023:18:02:25 +0100] "GET /stats HTTP/1.1" 200 1223 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [20/Dec/2023:18:02:46 +0100] PUBLISH "live" "stream1" "" - 5451552 529 "" "FMLE/3.0 (compatible; Lavf60.16" (32s)
+127.0.0.1 [20/Dec/2023:18:03:06 +0100] PUBLISH "live" "stream1" "" - 1650992 529 "" "FMLE/3.0 (compatible; Lavf60.16" (5s)
+127.0.0.1 [20/Dec/2023:18:03:21 +0100] PUBLISH "live" "stream1" "" - 628515 529 "" "FMLE/3.0 (compatible; Lavf60.16" (5s)
+127.0.0.1 [20/Dec/2023:18:07:02 +0100] PUBLISH "live" "stream1" "" - 5394171 529 "" "FMLE/3.0 (compatible; Lavf60.16" (20s)
+127.0.0.1 [20/Dec/2023:18:08:40 +0100] PLAY "live" "stream1" "" - 386 4584945 "" "LNX 9,0,124,2" (1m 12s)
+127.0.0.1 [20/Dec/2023:18:08:47 +0100] PUBLISH "live" "stream1" "" - 16076212 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 36s)
+127.0.0.1 [20/Dec/2023:18:09:25 +0100] PUBLISH "live" "stream1" "" - 1295216 529 "" "FMLE/3.0 (compatible; Lavf60.16" (7s)
+127.0.0.1 [20/Dec/2023:18:10:07 +0100] PUBLISH "live" "stream1" "" - 6937876 529 "" "FMLE/3.0 (compatible; Lavf60.16" (25s)
+127.0.0.1 [20/Dec/2023:18:10:34 +0100] PUBLISH "live" "stream1" "" - 1251542 529 "" "FMLE/3.0 (compatible; Lavf60.16" (14s)
+127.0.0.1 [20/Dec/2023:18:10:59 +0100] PUBLISH "live" "stream1" "" - 5272701 529 "" "FMLE/3.0 (compatible; Lavf60.16" (16s)
+127.0.0.1 [20/Dec/2023:18:12:58 +0100] PUBLISH "live" "stream1" "" - 40412549 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 48s)
+127.0.0.1 [20/Dec/2023:18:13:21 +0100] PUBLISH "live" "stream1" "" - 2920668 529 "" "FMLE/3.0 (compatible; Lavf60.16" (11s)
+127.0.0.1 [20/Dec/2023:18:13:46 +0100] PUBLISH "live" "stream1" "" - 2565280 529 "" "FMLE/3.0 (compatible; Lavf60.16" (15s)
+127.0.0.1 [20/Dec/2023:18:14:21 +0100] PUBLISH "live" "stream1" "" - 11427369 529 "" "FMLE/3.0 (compatible; Lavf60.16" (30s)
+127.0.0.1 [20/Dec/2023:18:19:05 +0100] PUBLISH "live" "stream1" "" - 1055409 529 "" "FMLE/3.0 (compatible; Lavf60.16" (24s)
+127.0.0.1 [20/Dec/2023:18:19:43 +0100] PUBLISH "live" "stream1" "" - 872090 529 "" "FMLE/3.0 (compatible; Lavf60.16" (16s)
+127.0.0.1 [20/Dec/2023:18:20:08 +0100] PUBLISH "live" "stream1" "" - 802137 529 "" "FMLE/3.0 (compatible; Lavf60.16" (10s)
+127.0.0.1 [20/Dec/2023:18:20:34 +0100] PUBLISH "live" "stream1" "" - 1870186 529 "" "FMLE/3.0 (compatible; Lavf60.16" (15s)
+127.0.0.1 [20/Dec/2023:18:20:56 +0100] PUBLISH "live" "stream1" "" - 844683 529 "" "FMLE/3.0 (compatible; Lavf60.16" (11s)
+127.0.0.1 [20/Dec/2023:18:21:18 +0100] PUBLISH "live" "stream1" "" - 732408 529 "" "FMLE/3.0 (compatible; Lavf60.16" (7s)
+127.0.0.1 [20/Dec/2023:18:21:41 +0100] PUBLISH "live" "stream1" "" - 1147675 529 "" "FMLE/3.0 (compatible; Lavf60.16" (12s)
+127.0.0.1 [20/Dec/2023:18:22:16 +0100] PUBLISH "live" "stream1" "" - 2563990 529 "" "FMLE/3.0 (compatible; Lavf60.16" (25s)
+127.0.0.1 [20/Dec/2023:18:22:27 +0100] PUBLISH "live" "stream1" "" - 228419 529 "" "FMLE/3.0 (compatible; Lavf60.16" (2s)
+127.0.0.1 [20/Dec/2023:18:23:07 +0100] PUBLISH "live" "stream1" "" - 2198345 529 "" "FMLE/3.0 (compatible; Lavf60.16" (30s)
+127.0.0.1 [20/Dec/2023:18:23:49 +0100] PUBLISH "live" "stream1" "" - 637375 529 "" "FMLE/3.0 (compatible; Lavf60.16" (11s)
+127.0.0.1 [20/Dec/2023:18:24:18 +0100] PUBLISH "live" "stream1" "" - 720062 529 "" "FMLE/3.0 (compatible; Lavf60.16" (13s)
+127.0.0.1 [20/Dec/2023:18:24:41 +0100] PUBLISH "live" "stream1" "" - 1486060 529 "" "FMLE/3.0 (compatible; Lavf60.16" (14s)
+127.0.0.1 [20/Dec/2023:18:25:28 +0100] PUBLISH "live" "stream1" "" - 4558121 529 "" "FMLE/3.0 (compatible; Lavf60.16" (36s)
+127.0.0.1 - - [20/Dec/2023:18:31:52 +0100] "GET /stats HTTP/1.1" 200 1430 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [20/Dec/2023:18:32:18 +0100] PUBLISH "live" "stream1" "" - 2562199 529 "" "FMLE/3.0 (compatible; Lavf60.16" (40s)
+127.0.0.1 [20/Dec/2023:18:32:39 +0100] PUBLISH "live" "stream1" "" - 410943 529 "" "FMLE/3.0 (compatible; Lavf60.16" (10s)
+127.0.0.1 [20/Dec/2023:18:33:47 +0100] PUBLISH "live" "stream1" "" - 2629815 529 "" "FMLE/3.0 (compatible; Lavf60.16" (19s)
+127.0.0.1 [20/Dec/2023:18:34:19 +0100] PUBLISH "live" "stream1" "" - 2394585 529 "" "FMLE/3.0 (compatible; Lavf60.16" (23s)
+127.0.0.1 [20/Dec/2023:18:35:09 +0100] PUBLISH "live" "stream1" "" - 4269575 529 "" "FMLE/3.0 (compatible; Lavf60.16" (41s)
+127.0.0.1 [20/Dec/2023:18:35:13 +0100] PLAY "live" "stream1" "" - 754 70808383 "" "LNX 9,0,124,2" (23m 35s)
+127.0.0.1 [20/Dec/2023:18:37:28 +0100] PUBLISH "live" "stream1" "" - 13120671 529 "" "FMLE/3.0 (compatible; Lavf60.16" (2m 9s)
+127.0.0.1 [20/Dec/2023:18:37:48 +0100] PLAY "live" "stream1" "" - 410 11539025 "" "LNX 9,0,124,2" (2m 21s)
+127.0.0.1 [20/Dec/2023:18:39:09 +0100] PLAY "live" "stream1" "" - 394 8322362 "" "LNX 9,0,124,2" (1m 16s)
+127.0.0.1 [20/Dec/2023:18:39:11 +0100] PUBLISH "live" "stream1" "" - 11153946 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 32s)
+127.0.0.1 [20/Dec/2023:18:39:57 +0100] PUBLISH "live" "stream1" "" - 4307039 529 "" "FMLE/3.0 (compatible; Lavf60.16" (38s)
+127.0.0.1 - - [20/Dec/2023:18:42:30 +0100] "GET /stats HTTP/1.1" 200 1202 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [20/Dec/2023:18:44:48 +0100] PUBLISH "live" "stream1" "" - 13885637 529 "" "FMLE/3.0 (compatible; Lavf60.16" (2m 19s)
+127.0.0.1 [20/Dec/2023:18:45:24 +0100] PUBLISH "live" "stream1" "" - 2736343 529 "" "FMLE/3.0 (compatible; Lavf60.16" (32s)
+127.0.0.1 [20/Dec/2023:18:45:53 +0100] PUBLISH "live" "stream1" "" - 1317757 529 "" "FMLE/3.0 (compatible; Lavf60.16" (14s)
+127.0.0.1 [20/Dec/2023:18:46:20 +0100] PUBLISH "live" "stream1" "" - 1916293 529 "" "FMLE/3.0 (compatible; Lavf60.16" (14s)
+127.0.0.1 [20/Dec/2023:18:47:01 +0100] PUBLISH "live" "stream1" "" - 737634 529 "" "FMLE/3.0 (compatible; Lavf60.16" (4s)
+127.0.0.1 [20/Dec/2023:18:47:19 +0100] PUBLISH "live" "stream1" "" - 1650232 529 "" "FMLE/3.0 (compatible; Lavf60.16" (10s)
+127.0.0.1 [20/Dec/2023:18:55:15 +0100] PUBLISH "live" "stream1" "" - 80237285 529 "" "FMLE/3.0 (compatible; Lavf60.16" (7m 47s)
+127.0.0.1 [20/Dec/2023:18:55:47 +0100] PUBLISH "live" "stream1" "" - 3922717 529 "" "FMLE/3.0 (compatible; Lavf60.16" (20s)
+127.0.0.1 [20/Dec/2023:18:57:40 +0100] PUBLISH "live" "stream1" "" - 710366 529 "" "FMLE/3.0 (compatible; Lavf60.16" (4s)
+127.0.0.1 [20/Dec/2023:19:02:16 +0100] PUBLISH "live" "stream1" "" - 669561 529 "" "FMLE/3.0 (compatible; Lavf60.16" (15s)
+127.0.0.1 - - [20/Dec/2023:19:20:36 +0100] "GET /stats HTTP/1.1" 200 1225 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [20/Dec/2023:19:20:44 +0100] PUBLISH "live" "stream1" "" - 2070132 529 "" "FMLE/3.0 (compatible; Lavf60.16" (25s)
+127.0.0.1 [20/Dec/2023:19:21:40 +0100] PUBLISH "live" "stream1" "" - 967081 529 "" "FMLE/3.0 (compatible; Lavf60.16" (8s)
+127.0.0.1 [20/Dec/2023:19:22:31 +0100] PUBLISH "live" "stream1" "" - 6720195 529 "" "FMLE/3.0 (compatible; Lavf60.16" (43s)
+127.0.0.1 [20/Dec/2023:19:23:35 +0100] PUBLISH "live" "stream1" "" - 11657048 529 "" "FMLE/3.0 (compatible; Lavf60.16" (54s)
+127.0.0.1 [20/Dec/2023:19:23:52 +0100] PLAY "live" "stream1" "" - 386 3092161 "" "LNX 9,0,124,2" (44s)
+127.0.0.1 [20/Dec/2023:19:27:13 +0100] PLAY "live" "stream1" "" - 422 24389959 "" "LNX 9,0,124,2" (3m 16s)
+127.0.0.1 [20/Dec/2023:19:27:18 +0100] PUBLISH "live" "stream1" "" - 59415440 529 "" "FMLE/3.0 (compatible; Lavf60.16" (3m 36s)
+127.0.0.1 - - [21/Dec/2023:16:58:41 +0100] "GET /stats HTTP/1.1" 200 525 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+2023/12/21 16:58:41 [error] 13044#2532: *1 CreateFile() "C:\nginx/site/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: demo.lab.net, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/stats"
+127.0.0.1 - - [21/Dec/2023:16:58:41 +0100] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost/stats" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [21/Dec/2023:17:00:27 +0100] PUBLISH "hls" "stream_low" "" - 428 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1s)
+127.0.0.1 [21/Dec/2023:17:00:27 +0100] PUBLISH "hls" "stream_mid" "" - 428 529 "" "FMLE/3.0 (compatible; Lavf60.16" (0s)
+127.0.0.1 [21/Dec/2023:17:00:27 +0100] PUBLISH "hls" "stream_high" "" - 432 529 "" "FMLE/3.0 (compatible; Lavf60.16" (0s)
+127.0.0.1 [21/Dec/2023:17:00:27 +0100] PUBLISH "hls" "stream_src" "" - 428 529 "" "FMLE/3.0 (compatible; Lavf60.16" (0s)
+127.0.0.1 - - [21/Dec/2023:17:03:11 +0100] "GET /stats HTTP/1.1" 200 532 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [21/Dec/2023:17:05:11 +0100] "GET /stats HTTP/1.1" 200 1193 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [21/Dec/2023:17:05:33 +0100] PUBLISH "hls" "stream_low" "" - 2414299 529 "" "FMLE/3.0 (compatible; Lavf60.16" (30s)
+127.0.0.1 - - [21/Dec/2023:17:06:22 +0100] "GET /stats HTTP/1.1" 200 3176 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [21/Dec/2023:17:12:11 +0100] "GET /stats HTTP/1.1" 200 3663 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [21/Dec/2023:17:12:35 +0100] PLAY "hls" "stream.m3u8" "" - 380 436 "" "LNX 9,0,124,2" (53s)
+127.0.0.1 - - [21/Dec/2023:17:12:37 +0100] "GET /stats HTTP/1.1" 200 3266 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [21/Dec/2023:17:12:41 +0100] "GET /stats HTTP/1.1" 200 3663 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [21/Dec/2023:17:14:27 +0100] PLAY "hls" "stream_low.m3u8" "" - 388 436 "" "LNX 9,0,124,2" (1m 46s)
+127.0.0.1 - - [21/Dec/2023:17:16:39 +0100] "GET /stats HTTP/1.1" 200 3268 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [21/Dec/2023:17:17:09 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 1065 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:17:10 +0100] "GET /stats HTTP/1.1" 200 3268 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [21/Dec/2023:17:17:11 +0100] "GET /stats HTTP/1.1" 200 3268 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [21/Dec/2023:17:17:12 +0100] "GET /hls/stream_src-65.ts HTTP/1.1" 200 1147364 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:17:12 +0100] "GET /hls/stream_src-66.ts HTTP/1.1" 200 1098672 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:17:12 +0100] "GET /stats HTTP/1.1" 200 3268 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [21/Dec/2023:17:17:13 +0100] "GET /stats HTTP/1.1" 200 3268 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [21/Dec/2023:17:17:15 +0100] "GET /hls/stream_src-67.ts HTTP/1.1" 200 1128000 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:17:21 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 1065 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:17:24 +0100] "GET /hls/stream_src-68.ts HTTP/1.1" 200 1135708 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:17:35 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 1065 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:17:37 +0100] "GET /hls/stream_src-67.ts HTTP/1.1" 200 1128000 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:17:37 +0100] "GET /hls/stream_src-68.ts HTTP/1.1" 200 1135708 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:17:40 +0100] "GET /hls/stream_src-69.ts HTTP/1.1" 200 1135520 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:17:46 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 1065 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:17:49 +0100] "GET /hls/stream_src-70.ts HTTP/1.1" 200 1130068 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:17:57 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 1065 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:18:00 +0100] "GET /hls/stream_src-71.ts HTTP/1.1" 200 1168420 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:18:04 +0100] "GET /hls/stream_src-72.ts HTTP/1.1" 200 1287612 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:18:08 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 1065 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:18:14 +0100] "GET /hls/stream_src-73.ts HTTP/1.1" 200 1337056 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:18:20 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 1065 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 [21/Dec/2023:17:18:59 +0100] PLAY "hls" "stream_low" "" - 390 3269250 "" "LNX 9,0,124,2" (34s)
+127.0.0.1 [21/Dec/2023:17:19:13 +0100] PUBLISH "hls" "stream_src" "" - 96032919 529 "" "FMLE/3.0 (compatible; Lavf60.16" (12m 56s)
+127.0.0.1 [21/Dec/2023:17:19:13 +0100] PUBLISH "hls" "stream_high" "" - 18088315 529 "" "FMLE/3.0 (compatible; Lavf60.16" (12m 57s)
+127.0.0.1 [21/Dec/2023:17:19:13 +0100] PUBLISH "hls" "stream_low" "" - 68508442 529 "" "FMLE/3.0 (compatible; Lavf60.16" (12m 57s)
+127.0.0.1 [21/Dec/2023:17:19:13 +0100] PUBLISH "hls" "stream_mid" "" - 30231354 529 "" "FMLE/3.0 (compatible; Lavf60.16" (12m 57s)
+127.0.0.1 - - [21/Dec/2023:17:24:02 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 191 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:24:04 +0100] "GET /hls/stream_src-0.ts HTTP/1.1" 200 713648 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:24:04 +0100] "GET /hls/stream_src-1.ts HTTP/1.1" 200 718348 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:24:07 +0100] "GET /hls/stream_src-2.ts HTTP/1.1" 200 729064 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:24:13 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 222 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:24:16 +0100] "GET /hls/stream_src-3.ts HTTP/1.1" 200 732448 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:24:24 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 222 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:24:24 +0100] "GET /hls/stream_src-3.ts HTTP/1.1" 200 732448 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:24:35 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 254 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:24:35 +0100] "GET /hls/stream_src-4.ts HTTP/1.1" 200 697480 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:24:46 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 286 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:24:46 +0100] "GET /hls/stream_src-5.ts HTTP/1.1" 200 694284 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:24:58 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 286 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:25:09 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 318 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:25:09 +0100] "GET /hls/stream_src-6.ts HTTP/1.1" 200 693720 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:25:20 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 350 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:25:20 +0100] "GET /hls/stream_src-7.ts HTTP/1.1" 200 715716 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 [21/Dec/2023:17:25:23 +0100] PUBLISH "hls" "stream_low" "" - 9070100 529 "" "FMLE/3.0 (compatible; Lavf60.16" (2m 24s)
+127.0.0.1 [21/Dec/2023:17:25:23 +0100] PUBLISH "hls" "stream_src" "" - 5743791 529 "" "FMLE/3.0 (compatible; Lavf60.16" (2m 23s)
+127.0.0.1 [21/Dec/2023:17:25:23 +0100] PUBLISH "hls" "stream_mid" "" - 3194833 529 "" "FMLE/3.0 (compatible; Lavf60.16" (2m 24s)
+127.0.0.1 [21/Dec/2023:17:25:23 +0100] PUBLISH "hls" "stream_high" "" - 1860373 529 "" "FMLE/3.0 (compatible; Lavf60.16" (2m 23s)
+127.0.0.1 - - [21/Dec/2023:17:27:46 +0100] "GET /stats HTTP/1.1" 200 3255 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [21/Dec/2023:17:27:47 +0100] "GET /stats HTTP/1.1" 200 3255 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [21/Dec/2023:17:27:49 +0100] "GET /stats HTTP/1.1" 200 3255 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [21/Dec/2023:17:28:11 +0100] PUBLISH "hls" "stream_low" "" - 6893202 529 "" "FMLE/3.0 (compatible; Lavf60.16" (46s)
+127.0.0.1 [21/Dec/2023:17:28:11 +0100] PUBLISH "hls" "stream_mid" "" - 6893202 529 "" "FMLE/3.0 (compatible; Lavf60.16" (45s)
+127.0.0.1 [21/Dec/2023:17:28:11 +0100] PUBLISH "hls" "stream_high" "" - 6893206 529 "" "FMLE/3.0 (compatible; Lavf60.16" (45s)
+127.0.0.1 [21/Dec/2023:17:28:11 +0100] PUBLISH "hls" "stream_src" "" - 3941540 529 "" "FMLE/3.0 (compatible; Lavf60.16" (45s)
+127.0.0.1 - - [21/Dec/2023:17:28:15 +0100] "GET /stats HTTP/1.1" 200 548 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [21/Dec/2023:17:32:06 +0100] PUBLISH "hls" "stream_low" "" - 428 529 "" "FMLE/3.0 (compatible; Lavf60.16" (0s)
+127.0.0.1 [21/Dec/2023:17:32:06 +0100] PUBLISH "hls" "stream_mid" "" - 428 529 "" "FMLE/3.0 (compatible; Lavf60.16" (0s)
+127.0.0.1 [21/Dec/2023:17:32:06 +0100] PUBLISH "hls" "stream_high" "" - 432 529 "" "FMLE/3.0 (compatible; Lavf60.16" (0s)
+127.0.0.1 [21/Dec/2023:17:32:06 +0100] PUBLISH "hls" "stream_src" "" - 428 529 "" "FMLE/3.0 (compatible; Lavf60.16" (0s)
+127.0.0.1 [21/Dec/2023:17:33:09 +0100] PUBLISH "hls" "stream_low" "" - 940457 529 "" "FMLE/3.0 (compatible; Lavf60.16" (14s)
+127.0.0.1 [21/Dec/2023:17:33:09 +0100] PUBLISH "hls" "stream_mid" "" - 314596 529 "" "FMLE/3.0 (compatible; Lavf60.16" (14s)
+127.0.0.1 [21/Dec/2023:17:33:09 +0100] PUBLISH "hls" "stream_high" "" - 177261 529 "" "FMLE/3.0 (compatible; Lavf60.16" (14s)
+127.0.0.1 [21/Dec/2023:17:33:09 +0100] PUBLISH "hls" "stream_src" "" - 574377 529 "" "FMLE/3.0 (compatible; Lavf60.16" (13s)
+127.0.0.1 - - [21/Dec/2023:17:34:09 +0100] "GET /stats HTTP/1.1" 200 3170 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [21/Dec/2023:17:34:27 +0100] PUBLISH "hls" "stream_low" "" - 1129900 529 "" "FMLE/3.0 (compatible; Lavf60.16" (19s)
+127.0.0.1 [21/Dec/2023:17:34:27 +0100] PUBLISH "hls" "stream_mid" "" - 393425 529 "" "FMLE/3.0 (compatible; Lavf60.16" (19s)
+127.0.0.1 [21/Dec/2023:17:34:27 +0100] PUBLISH "hls" "stream_high" "" - 228908 529 "" "FMLE/3.0 (compatible; Lavf60.16" (19s)
+127.0.0.1 [21/Dec/2023:17:34:27 +0100] PUBLISH "hls" "stream_src" "" - 701088 529 "" "FMLE/3.0 (compatible; Lavf60.16" (18s)
+127.0.0.1 [21/Dec/2023:17:36:03 +0100] PUBLISH "hls" "stream_low" "" - 2081644 529 "" "FMLE/3.0 (compatible; Lavf60.16" (32s)
+127.0.0.1 [21/Dec/2023:17:36:03 +0100] PUBLISH "hls" "stream_src" "" - 1327042 529 "" "FMLE/3.0 (compatible; Lavf60.16" (31s)
+127.0.0.1 [21/Dec/2023:17:36:03 +0100] PUBLISH "hls" "stream_mid" "" - 714708 529 "" "FMLE/3.0 (compatible; Lavf60.16" (32s)
+127.0.0.1 [21/Dec/2023:17:36:03 +0100] PUBLISH "hls" "stream_high" "" - 408977 529 "" "FMLE/3.0 (compatible; Lavf60.16" (32s)
+127.0.0.1 [21/Dec/2023:17:37:20 +0100] PUBLISH "hls" "stream_src" "" - 1396444 529 "" "FMLE/3.0 (compatible; Lavf60.16" (33s)
+127.0.0.1 [21/Dec/2023:17:37:20 +0100] PUBLISH "hls" "stream_low" "" - 2138163 529 "" "FMLE/3.0 (compatible; Lavf60.16" (34s)
+127.0.0.1 [21/Dec/2023:17:37:20 +0100] PUBLISH "hls" "stream_mid" "" - 730412 529 "" "FMLE/3.0 (compatible; Lavf60.16" (34s)
+127.0.0.1 [21/Dec/2023:17:37:20 +0100] PUBLISH "hls" "stream_high" "" - 416785 529 "" "FMLE/3.0 (compatible; Lavf60.16" (33s)
+127.0.0.1 - - [21/Dec/2023:17:38:55 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 463 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:39:19 +0100] "GET /stats HTTP/1.1" 200 3248 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [21/Dec/2023:17:40:54 +0100] PLAY "hls" "stream_low" "" - 378 2449199 "" "LNX 9,0,124,2" (43s)
+127.0.0.1 - - [21/Dec/2023:17:40:56 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 693 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 [21/Dec/2023:17:41:13 +0100] PUBLISH "hls" "stream_low" "" - 10790464 529 "" "FMLE/3.0 (compatible; Lavf60.16" (2m 54s)
+127.0.0.1 [21/Dec/2023:17:41:13 +0100] PUBLISH "hls" "stream_mid" "" - 3720604 529 "" "FMLE/3.0 (compatible; Lavf60.16" (2m 54s)
+127.0.0.1 [21/Dec/2023:17:41:13 +0100] PUBLISH "hls" "stream_high" "" - 2155832 529 "" "FMLE/3.0 (compatible; Lavf60.16" (2m 53s)
+127.0.0.1 [21/Dec/2023:17:41:13 +0100] PUBLISH "hls" "stream_src" "" - 7074211 529 "" "FMLE/3.0 (compatible; Lavf60.16" (2m 53s)
+2023/12/21 17:43:11 [error] 13044#2532: *86 CreateFile() "C:\nginx/temp/tmp_hls/stream_src.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: demo.lab.net, request: "GET /hls/stream_src.m3u8 HTTP/1.1", host: "localhost"
+127.0.0.1 - - [21/Dec/2023:17:43:11 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 404 153 "-" "VLC/3.0.11 LibVLC/3.0.11"
+2023/12/21 17:43:13 [error] 13044#2532: *87 CreateFile() "C:\nginx/temp/tmp_hls/stream_src.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: demo.lab.net, request: "GET /hls/stream_src.m3u8 HTTP/1.0", host: "localhost"
+127.0.0.1 - - [21/Dec/2023:17:43:13 +0100] "GET /hls/stream_src.m3u8 HTTP/1.0" 404 153 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 [21/Dec/2023:17:43:29 +0100] PUBLISH "hls" "stream_low" "" - 1799750 529 "" "FMLE/3.0 (compatible; Lavf60.16" (27s)
+127.0.0.1 [21/Dec/2023:17:43:29 +0100] PUBLISH "hls" "stream_mid" "" - 626805 529 "" "FMLE/3.0 (compatible; Lavf60.16" (27s)
+127.0.0.1 [21/Dec/2023:17:43:29 +0100] PUBLISH "hls" "stream_high" "" - 359705 529 "" "FMLE/3.0 (compatible; Lavf60.16" (26s)
+127.0.0.1 [21/Dec/2023:17:43:29 +0100] PUBLISH "hls" "stream_src" "" - 2785468 529 "" "FMLE/3.0 (compatible; Lavf60.16" (26s)
+127.0.0.1 - - [21/Dec/2023:17:44:08 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 159 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:44:10 +0100] "GET /hls/stream_src-0.ts HTTP/1.1" 200 1779608 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:44:10 +0100] "GET /hls/stream_src-1.ts HTTP/1.1" 200 1105628 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:44:26 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 212 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:17:44:26 +0100] "GET /hls/stream_src-2.ts HTTP/1.1" 200 1153004 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 [21/Dec/2023:17:44:37 +0100] PUBLISH "hls" "stream_low" "" - 2419974 529 "" "FMLE/3.0 (compatible; Lavf60.16" (39s)
+127.0.0.1 [21/Dec/2023:17:44:37 +0100] PUBLISH "hls" "stream_src" "" - 2478138 529 "" "FMLE/3.0 (compatible; Lavf60.16" (38s)
+127.0.0.1 [21/Dec/2023:17:44:37 +0100] PUBLISH "hls" "stream_mid" "" - 841628 529 "" "FMLE/3.0 (compatible; Lavf60.16" (39s)
+127.0.0.1 [21/Dec/2023:17:44:37 +0100] PUBLISH "hls" "stream_high" "" - 487815 529 "" "FMLE/3.0 (compatible; Lavf60.16" (38s)
+127.0.0.1 [21/Dec/2023:17:48:23 +0100] PUBLISH "hls" "stream_low" "" - 2620124 529 "" "FMLE/3.0 (compatible; Lavf60.16" (39s)
+127.0.0.1 [21/Dec/2023:17:48:23 +0100] PUBLISH "hls" "stream_mid" "" - 919363 529 "" "FMLE/3.0 (compatible; Lavf60.16" (38s)
+127.0.0.1 [21/Dec/2023:17:48:23 +0100] PUBLISH "hls" "stream_high" "" - 537429 529 "" "FMLE/3.0 (compatible; Lavf60.16" (38s)
+127.0.0.1 [21/Dec/2023:17:48:23 +0100] PUBLISH "hls" "stream_src" "" - 2549757 529 "" "FMLE/3.0 (compatible; Lavf60.16" (38s)
+127.0.0.1 [21/Dec/2023:18:23:33 +0100] PUBLISH "hls" "stream_src" "" - 2257936 529 "" "FMLE/3.0 (compatible; Lavf60.16" (23s)
+127.0.0.1 [21/Dec/2023:18:23:33 +0100] PUBLISH "hls" "stream_low" "" - 5059064 529 "" "FMLE/3.0 (compatible; Lavf60.16" (24s)
+127.0.0.1 [21/Dec/2023:18:23:33 +0100] PUBLISH "hls" "stream_mid" "" - 2832171 529 "" "FMLE/3.0 (compatible; Lavf60.16" (24s)
+127.0.0.1 [21/Dec/2023:18:23:33 +0100] PUBLISH "hls" "stream_high" "" - 1060848 529 "" "FMLE/3.0 (compatible; Lavf60.16" (24s)
+127.0.0.1 [21/Dec/2023:18:24:30 +0100] PUBLISH "hls" "stream_low" "" - 640429 529 "" "FMLE/3.0 (compatible; Lavf60.16" (14s)
+127.0.0.1 [21/Dec/2023:18:24:30 +0100] PUBLISH "hls" "stream_mid" "" - 298746 529 "" "FMLE/3.0 (compatible; Lavf60.16" (14s)
+127.0.0.1 [21/Dec/2023:18:24:30 +0100] PUBLISH "hls" "stream_high" "" - 189924 529 "" "FMLE/3.0 (compatible; Lavf60.16" (14s)
+127.0.0.1 [21/Dec/2023:18:24:30 +0100] PUBLISH "hls" "stream_src" "" - 864955 529 "" "FMLE/3.0 (compatible; Lavf60.16" (13s)
+127.0.0.1 [21/Dec/2023:18:25:11 +0100] PUBLISH "hls" "stream_low" "" - 522399 529 "" "FMLE/3.0 (compatible; Lavf60.16" (11s)
+127.0.0.1 [21/Dec/2023:18:25:11 +0100] PUBLISH "hls" "stream_mid" "" - 254983 529 "" "FMLE/3.0 (compatible; Lavf60.16" (10s)
+127.0.0.1 [21/Dec/2023:18:25:11 +0100] PUBLISH "hls" "stream_high" "" - 166528 529 "" "FMLE/3.0 (compatible; Lavf60.16" (10s)
+127.0.0.1 [21/Dec/2023:18:25:11 +0100] PUBLISH "hls" "stream_src" "" - 904745 529 "" "FMLE/3.0 (compatible; Lavf60.16" (10s)
+127.0.0.1 [21/Dec/2023:18:26:07 +0100] PUBLISH "hls" "stream_low" "" - 796568 529 "" "FMLE/3.0 (compatible; Lavf60.16" (22s)
+127.0.0.1 [21/Dec/2023:18:26:07 +0100] PUBLISH "hls" "stream_src" "" - 2561848 529 "" "FMLE/3.0 (compatible; Lavf60.16" (21s)
+127.0.0.1 [21/Dec/2023:18:26:07 +0100] PUBLISH "hls" "stream_mid" "" - 357413 529 "" "FMLE/3.0 (compatible; Lavf60.16" (21s)
+127.0.0.1 [21/Dec/2023:18:26:07 +0100] PUBLISH "hls" "stream_high" "" - 219588 529 "" "FMLE/3.0 (compatible; Lavf60.16" (21s)
+127.0.0.1 - - [21/Dec/2023:18:27:01 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 347 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 [21/Dec/2023:18:27:29 +0100] PUBLISH "hls" "stream_low" "" - 2055265 529 "" "FMLE/3.0 (compatible; Lavf60.16" (44s)
+127.0.0.1 [21/Dec/2023:18:27:29 +0100] PUBLISH "hls" "stream_mid" "" - 983748 529 "" "FMLE/3.0 (compatible; Lavf60.16" (43s)
+127.0.0.1 [21/Dec/2023:18:27:29 +0100] PUBLISH "hls" "stream_src" "" - 6417079 529 "" "FMLE/3.0 (compatible; Lavf60.16" (43s)
+127.0.0.1 [21/Dec/2023:18:27:29 +0100] PUBLISH "hls" "stream_high" "" - 637649 529 "" "FMLE/3.0 (compatible; Lavf60.16" (43s)
+127.0.0.1 - - [21/Dec/2023:18:28:35 +0100] "GET /stats HTTP/1.1" 200 3243 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+2023/12/21 18:28:35 [error] 23760#25584: *26 CreateFile() "C:\nginx/site/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: demo.lab.net, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/stats"
+127.0.0.1 - - [21/Dec/2023:18:28:35 +0100] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost/stats" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [21/Dec/2023:18:29:00 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 484 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 [21/Dec/2023:18:29:10 +0100] PUBLISH "hls" "stream_low" "" - 2776789 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 0s)
+127.0.0.1 [21/Dec/2023:18:29:10 +0100] PUBLISH "hls" "stream_mid" "" - 1268295 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 0s)
+127.0.0.1 [21/Dec/2023:18:29:10 +0100] PUBLISH "hls" "stream_high" "" - 805568 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 0s)
+127.0.0.1 [21/Dec/2023:18:29:10 +0100] PUBLISH "hls" "stream_src" "" - 8420572 529 "" "FMLE/3.0 (compatible; Lavf60.16" (59s)
+127.0.0.1 - - [21/Dec/2023:18:29:27 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 516 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:30:07 +0100] "GET /hls/stream_high.m3u8 HTTP/1.1" 206 1183 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:30:09 +0100] "GET /hls/stream_high-35.ts HTTP/1.1" 200 52452 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:30:09 +0100] "GET /hls/stream_high-36.ts HTTP/1.1" 200 50196 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:30:09 +0100] "GET /hls/stream_high-37.ts HTTP/1.1" 200 50008 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:30:10 +0100] "GET /hls/stream_high-38.ts HTTP/1.1" 200 49068 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:30:11 +0100] "GET /hls/stream_high-39.ts HTTP/1.1" 200 53768 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:30:21 +0100] "GET /hls/stream_high.m3u8 HTTP/1.1" 206 1162 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:30:21 +0100] "GET /hls/stream_high-40.ts HTTP/1.1" 200 57340 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:30:21 +0100] "GET /hls/stream_high-41.ts HTTP/1.1" 200 59032 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:30:22 +0100] "GET /hls/stream_high-42.ts HTTP/1.1" 200 54332 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:30:29 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 636 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 [21/Dec/2023:18:32:07 +0100] PUBLISH "hls" "stream_src" "" - 10171230 529 "" "FMLE/3.0 (compatible; Lavf60.16" (2m 46s)
+127.0.0.1 [21/Dec/2023:18:32:07 +0100] PUBLISH "hls" "stream_low" "" - 10177120 529 "" "FMLE/3.0 (compatible; Lavf60.16" (2m 46s)
+127.0.0.1 [21/Dec/2023:18:32:07 +0100] PUBLISH "hls" "stream_high" "" - 1979808 529 "" "FMLE/3.0 (compatible; Lavf60.16" (2m 46s)
+127.0.0.1 [21/Dec/2023:18:32:07 +0100] PUBLISH "hls" "stream_mid" "" - 3450928 529 "" "FMLE/3.0 (compatible; Lavf60.16" (2m 46s)
+127.0.0.1 - - [21/Dec/2023:18:32:31 +0100] "GET /hls/stream_high.m3u8 HTTP/1.1" 206 1085 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:32:33 +0100] "GET /hls/stream_high-67.ts HTTP/1.1" 200 55648 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:32:33 +0100] "GET /hls/stream_high-68.ts HTTP/1.1" 200 59972 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:32:33 +0100] "GET /hls/stream_high-69.ts HTTP/1.1" 200 54708 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:32:34 +0100] "GET /hls/stream_high-70.ts HTTP/1.1" 200 44368 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:32:34 +0100] "GET /hls/stream_high-71.ts HTTP/1.1" 200 69184 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:32:46 +0100] "GET /hls/stream_high.m3u8 HTTP/1.1" 206 1085 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:32:48 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 986 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 [21/Dec/2023:18:32:53 +0100] PUBLISH "hls" "stream_src" "" - 3597059 529 "" "FMLE/3.0 (compatible; Lavf60.16" (28s)
+127.0.0.1 [21/Dec/2023:18:32:53 +0100] PUBLISH "hls" "stream_low" "" - 2494636 529 "" "FMLE/3.0 (compatible; Lavf60.16" (29s)
+127.0.0.1 [21/Dec/2023:18:32:53 +0100] PUBLISH "hls" "stream_mid" "" - 1075628 529 "" "FMLE/3.0 (compatible; Lavf60.16" (29s)
+127.0.0.1 [21/Dec/2023:18:32:53 +0100] PUBLISH "hls" "stream_high" "" - 639202 529 "" "FMLE/3.0 (compatible; Lavf60.16" (28s)
+127.0.0.1 - - [21/Dec/2023:18:33:12 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 1051 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:33:37 +0100] "GET /hls/stream_high.m3u8 HTTP/1.1" 206 1106 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:33:39 +0100] "GET /hls/stream_high-90.ts HTTP/1.1" 200 58280 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:33:39 +0100] "GET /hls/stream_high-91.ts HTTP/1.1" 200 59220 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:33:39 +0100] "GET /hls/stream_high-92.ts HTTP/1.1" 200 68808 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:33:39 +0100] "GET /hls/stream_high-93.ts HTTP/1.1" 200 68432 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:33:39 +0100] "GET /hls/stream_high-94.ts HTTP/1.1" 200 63732 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:33:40 +0100] "GET /hls/stream_high-95.ts HTTP/1.1" 200 66176 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:33:41 +0100] "GET /hls/stream_high-96.ts HTTP/1.1" 200 66552 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:33:41 +0100] "GET /hls/stream_high-97.ts HTTP/1.1" 200 65988 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:33:51 +0100] "GET /hls/stream_high.m3u8 HTTP/1.1" 206 1089 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:33:51 +0100] "GET /hls/stream_high-98.ts HTTP/1.1" 200 62040 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:33:53 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 1204 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 [21/Dec/2023:18:34:43 +0100] PUBLISH "hls" "stream_low" "" - 8869382 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 38s)
+127.0.0.1 [21/Dec/2023:18:34:43 +0100] PUBLISH "hls" "stream_src" "" - 12585314 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 37s)
+127.0.0.1 [21/Dec/2023:18:34:43 +0100] PUBLISH "hls" "stream_mid" "" - 3857791 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 38s)
+127.0.0.1 [21/Dec/2023:18:34:43 +0100] PUBLISH "hls" "stream_high" "" - 2275996 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 37s)
+127.0.0.1 - - [21/Dec/2023:18:35:04 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 1161 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:35:06 +0100] "GET /hls/stream_src-33.ts HTTP/1.1" 200 1240236 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:35:06 +0100] "GET /hls/stream_src-34.ts HTTP/1.1" 200 1250388 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:35:09 +0100] "GET /hls/stream_src-35.ts HTTP/1.1" 200 560052 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 [21/Dec/2023:18:35:14 +0100] PUBLISH "hls" "stream_low" "" - 1367747 529 "" "FMLE/3.0 (compatible; Lavf60.16" (18s)
+127.0.0.1 [21/Dec/2023:18:35:14 +0100] PUBLISH "hls" "stream_mid" "" - 577057 529 "" "FMLE/3.0 (compatible; Lavf60.16" (18s)
+127.0.0.1 [21/Dec/2023:18:35:14 +0100] PUBLISH "hls" "stream_high" "" - 342005 529 "" "FMLE/3.0 (compatible; Lavf60.16" (17s)
+127.0.0.1 [21/Dec/2023:18:35:14 +0100] PUBLISH "hls" "stream_src" "" - 2049445 529 "" "FMLE/3.0 (compatible; Lavf60.16" (17s)
+127.0.0.1 - - [21/Dec/2023:18:35:38 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 1163 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:35:40 +0100] "GET /hls/stream_src-34.ts HTTP/1.1" 200 1250388 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:35:40 +0100] "GET /hls/stream_src-35.ts HTTP/1.1" 200 560052 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:35:42 +0100] "GET /hls/stream_src-36.ts HTTP/1.1" 200 1182896 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 [21/Dec/2023:18:35:47 +0100] PUBLISH "hls" "stream_low" "" - 831513 529 "" "FMLE/3.0 (compatible; Lavf60.16" (18s)
+127.0.0.1 [21/Dec/2023:18:35:47 +0100] PUBLISH "hls" "stream_src" "" - 2429021 529 "" "FMLE/3.0 (compatible; Lavf60.16" (17s)
+127.0.0.1 [21/Dec/2023:18:35:47 +0100] PUBLISH "hls" "stream_high" "" - 258009 529 "" "FMLE/3.0 (compatible; Lavf60.16" (18s)
+127.0.0.1 [21/Dec/2023:18:35:47 +0100] PUBLISH "hls" "stream_mid" "" - 397954 529 "" "FMLE/3.0 (compatible; Lavf60.16" (18s)
+127.0.0.1 - - [21/Dec/2023:18:35:55 +0100] "GET /hls/stream_src-37.ts HTTP/1.1" 200 958236 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:36:09 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 1164 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:36:11 +0100] "GET /hls/stream_src-36.ts HTTP/1.1" 200 1182896 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:36:11 +0100] "GET /hls/stream_src-37.ts HTTP/1.1" 200 958236 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:36:14 +0100] "GET /hls/stream_src-38.ts HTTP/1.1" 200 2491940 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:36:45 +0100] "GET /hls/stream_src.m3u8 HTTP/1.1" 206 1187 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 - - [21/Dec/2023:18:36:45 +0100] "GET /hls/stream_src-39.ts HTTP/1.1" 200 4824080 "-" "VLC/3.0.11 LibVLC/3.0.11"
+127.0.0.1 [21/Dec/2023:18:37:06 +0100] PUBLISH "hls" "stream_low" "" - 2754770 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 8s)
+127.0.0.1 [21/Dec/2023:18:37:06 +0100] PUBLISH "hls" "stream_high" "" - 802080 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 7s)
+127.0.0.1 [21/Dec/2023:18:37:06 +0100] PUBLISH "hls" "stream_src" "" - 8415542 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 7s)
+127.0.0.1 [21/Dec/2023:18:37:06 +0100] PUBLISH "hls" "stream_mid" "" - 1266922 529 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 8s)
+127.0.0.1 - - [21/Dec/2023:18:51:41 +0100] "GET /stats HTTP/1.1" 200 524 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 - - [21/Dec/2023:20:22:02 +0100] "GET /stats HTTP/1.1" 200 3194 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0"
+127.0.0.1 [21/Dec/2023:20:22:59 +0100] PUBLISH "hls" "stream_mid" "" - 1792721 409 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 7s)
+127.0.0.1 [21/Dec/2023:20:22:59 +0100] PUBLISH "hls" "stream_low" "" - 4820341 409 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 7s)
+127.0.0.1 [21/Dec/2023:20:22:59 +0100] PUBLISH "hls" "stream_high" "" - 1069595 409 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 7s)
+127.0.0.1 [21/Dec/2023:20:22:59 +0100] PUBLISH "hls" "stream_src" "" - 7657578 409 "" "FMLE/3.0 (compatible; Lavf60.16" (1m 6s)
