@@ -1,0 +1,43 @@
+[
+    {
+        "id": "player1",
+        "title": "Prvni kamera",
+        "source": "http://147.229.147.107/hls/cam1.m3u8",
+        "source144": "http://147.229.147.107/hls/cam1_144.m3u8",
+        "source360": "http://147.229.147.107/hls/cam1_360.m3u8",
+        "source480": "http://147.229.147.107/hls/cam1_480.m3u8", 
+        "poster": "img/jedna.png",
+        "info": "Kamera1 ohnostroj"
+    },
+    {
+        "id": "player2",
+        "title": "Druha kamera",
+        "source": "http://147.229.147.107/hls/cam2.m3u8",
+        "source144": "http://147.229.147.107/hls/cam2_144.m3u8",
+        "source360": "http://147.229.147.107/hls/cam2_360.m3u8",
+        "source480": "http://147.229.147.107/hls/cam2_480.m3u8",
+        "poster": "img/dva.png",
+        "info": "Kamera2 pivo"
+    },
+    {
+        "id": "player3",
+        "title": "Treti kamera",
+        "source": "http://147.229.147.107/hls/cam3.m3u8",
+        "source144": "http://147.229.147.107/hls/cam3_144.m3u8",
+        "source360": "http://147.229.147.107/hls/cam3_360.m3u8",
+        "source480": "http://147.229.147.107/hls/cam3_480.m3u8",
+        "poster": "img/tri.png",
+        "info": "Kamera3 domy"
+    },
+    {
+        "id": "player4",
+        "title": "Ctvrta kamera",
+        "source": "http://147.229.147.107/hls/cam4.m3u8",
+        "source144": "http://147.229.147.107/hls/cam4_144.m3u8",
+        "source360": "http://147.229.147.107/hls/cam4_360.m3u8",
+        "source480": "http://147.229.147.107/hls/cam4_480.m3u8",
+        "poster": "img/ctyri.png",
+        "info": "Kamera4 vodopad"
+    }
+  ]
+  
